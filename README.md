@@ -1,6 +1,6 @@
-# NeverFap Deluxe Emergency
+# NeverFap Deluxe Blocker
 
-Website: https://emergency.neverfapdeluxe.com/
+Website: https://blocker.neverfapdeluxe.com/
 
 Released under the [GNU GPLv3 licence](https://github.com/neverfap-deluxe/nfd-api/blob/master/LICENSE).
 
